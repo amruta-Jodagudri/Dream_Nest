@@ -18,7 +18,7 @@
     "react-icons": "^5.4.0",
     "react-redux": "^9.2.0",
     "react-router-dom": "^7.0.2",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^5.0.1",
     "redux-persist": "^6.0.0",
     "sass": "^1.83.0",
     "server": "file:.."
@@ -46,5 +46,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
   }
 }
